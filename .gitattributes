@@ -1,0 +1,2 @@
+lfs_data/**.*
+lfs_data filter=lfs diff=lfs merge=lfs -text

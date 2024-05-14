@@ -30,6 +30,7 @@
 #include <linux/semaphore.h>
 #include <linux/stat.h>
 #include <linux/hisi/util.h>
+#include <linux/efs_vh.h>
 
 #include <partition.h>
 

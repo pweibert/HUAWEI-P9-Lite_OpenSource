@@ -45,10 +45,10 @@
 #include <sound/soc.h>
 #include <sound/jack.h>
 
+#include "../../hisi/slimbus/slimbus.h"
 #include "mlib_static_ringbuffer.h"
 #include "soundtrigger_dma_drv.h"
 #include "soundtrigger_log.h"
-#include "slimbus.h"
 
 #define DRV_NAME									"soundtrigger_dma_drv"
 
